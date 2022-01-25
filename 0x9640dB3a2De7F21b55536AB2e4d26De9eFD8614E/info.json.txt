@@ -1,0 +1,11 @@
+{
+ "name": "Mahjong Shiba Token",
+ "website": "https://mahjongshiba.com/index.html",
+ "description": "Mahjong Shiba is a new generation of meme token,will provide game players around the world with playable blockchain games.",
+ "explorer": "https://bscscan.com/token/0xeca41281c24451168a37211f0bc2b8645af45092",
+ "type": "BEP20",
+ "symbol": "MJGSHIB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x9640dB3a2De7F21b55536AB2e4d26De9eFD8614E"
+}
